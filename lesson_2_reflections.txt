@@ -26,5 +26,6 @@ the diagram the way we do?
 
 	merging the branches allow us to combine the features of both branches resulting one single branch as a new commit. representing in diagrams is easy to understad the structure of branches.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	git auto merges when there are just some addition or deletion of lines but it doesn't when there are changes in same line of both files.
